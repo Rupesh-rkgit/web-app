@@ -1,0 +1,6 @@
+Flask
+boto3
+mysql-connector-python
+Flask-CORS
+PyMySQL
+gunicorn
